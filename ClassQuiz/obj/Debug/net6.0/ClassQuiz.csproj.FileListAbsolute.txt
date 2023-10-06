@@ -1,0 +1,15 @@
+C:\Users\hector.mcewen\Desktop\Prog 2\ClassQuiz\ClassQuiz\bin\Debug\net6.0\ClassQuiz.exe
+C:\Users\hector.mcewen\Desktop\Prog 2\ClassQuiz\ClassQuiz\bin\Debug\net6.0\ClassQuiz.deps.json
+C:\Users\hector.mcewen\Desktop\Prog 2\ClassQuiz\ClassQuiz\bin\Debug\net6.0\ClassQuiz.runtimeconfig.json
+C:\Users\hector.mcewen\Desktop\Prog 2\ClassQuiz\ClassQuiz\bin\Debug\net6.0\ClassQuiz.dll
+C:\Users\hector.mcewen\Desktop\Prog 2\ClassQuiz\ClassQuiz\bin\Debug\net6.0\ClassQuiz.pdb
+C:\Users\hector.mcewen\Desktop\Prog 2\ClassQuiz\ClassQuiz\obj\Debug\net6.0\ClassQuiz.csproj.AssemblyReference.cache
+C:\Users\hector.mcewen\Desktop\Prog 2\ClassQuiz\ClassQuiz\obj\Debug\net6.0\ClassQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hector.mcewen\Desktop\Prog 2\ClassQuiz\ClassQuiz\obj\Debug\net6.0\ClassQuiz.AssemblyInfoInputs.cache
+C:\Users\hector.mcewen\Desktop\Prog 2\ClassQuiz\ClassQuiz\obj\Debug\net6.0\ClassQuiz.AssemblyInfo.cs
+C:\Users\hector.mcewen\Desktop\Prog 2\ClassQuiz\ClassQuiz\obj\Debug\net6.0\ClassQuiz.csproj.CoreCompileInputs.cache
+C:\Users\hector.mcewen\Desktop\Prog 2\ClassQuiz\ClassQuiz\obj\Debug\net6.0\ClassQuiz.dll
+C:\Users\hector.mcewen\Desktop\Prog 2\ClassQuiz\ClassQuiz\obj\Debug\net6.0\refint\ClassQuiz.dll
+C:\Users\hector.mcewen\Desktop\Prog 2\ClassQuiz\ClassQuiz\obj\Debug\net6.0\ClassQuiz.pdb
+C:\Users\hector.mcewen\Desktop\Prog 2\ClassQuiz\ClassQuiz\obj\Debug\net6.0\ClassQuiz.genruntimeconfig.cache
+C:\Users\hector.mcewen\Desktop\Prog 2\ClassQuiz\ClassQuiz\obj\Debug\net6.0\ref\ClassQuiz.dll
