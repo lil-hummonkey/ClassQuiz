@@ -6,6 +6,8 @@ public class Tamagotchi
     int power = 10;
     int health = 40;
 
+   
+
     private Random generator = new();
     public bool isAlive = true;
     private List<string> words = new List<string>() {"cum"};
@@ -69,9 +71,31 @@ public class Tamagotchi
         
     }
 
-    public void Fight(Opponent enemy)
+    public void Fight(Opponent opp1)
     {
-        Console.WriteLine($"I am fighting {enemy.name}");
+        
+        
+        Console.WriteLine($"You will fight against {opp1.name}");
+        while(opp1.health > 0)
+        {
+            Console.WriteLine($"{opp1.name} has {opp1.health}");
+            Console.ReadLine();
+            Console.WriteLine("What will you do?");
+            Console.WriteLine("1. Attack?");
+            string choice = Console.ReadLine();
+            if (choice == "1")
+            {
+            opp1.health -= power;
+            }
+            else
+            {
+            Console.WriteLine("You did nothing");    
+            }
+            Console.WriteLine($"{opp1.name} has {opp1.health}");
+            Console.ReadLine();
+            health -= opp1.power;
+
+        }
     }
    
 }

@@ -1,11 +1,13 @@
 ﻿
 string action;
 
+// Opponent opp1 = new Booboo();
+
 Tamagotchi knob = new Tamagotchi();
 
-List<Opponent> opponents = new() {new("Albert"), new("Herbert"), new("Tina")};
-
-knob.Fight(opponents[0]);
+List<Opponent> opponents = new();
+opponents.Add(new Booboo());
+opponents.Add(new Gooboo());
 
 Console.WriteLine("what will you call your tamagotchi?");
 
@@ -57,8 +59,10 @@ if(action == "4" || action == "Fight")
     //pick the number written
     //run the math on attack
     //check if he died
+    Random gen = new();
+    Opponent opp = opponents[gen.Next(opponents.Count)];
     
-    knob.Fight();
+    knob.Fight(opp);
     
 }
 

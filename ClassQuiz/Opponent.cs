@@ -11,16 +11,20 @@
 
 public class Opponent
 {
+
+    public List<string> opp1 = new();
+
     public int health = 20;
     public int power = 5;
+
+    public void AddOppontent()
+    {
+        opp1.Add("Gooboo");
+    }
 
     
     public string name = "";
 
-    public Opponent(string n)
-    {
-        name = n;
-    }
     
 
 
